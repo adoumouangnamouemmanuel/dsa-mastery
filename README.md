@@ -25,7 +25,7 @@ Welcome to my central repository for Data Structures and Algorithms. This space 
 As a Computer Engineering student in Ghana, I am currently bridging the gap between hardware-level logic and high-level software efficiency.
 
 - **Current Course:** Data Structures and Algorithms (Semester 2, 2026).
-- **Language Learning:** Actively implementing DSA patterns in **Rust** to master memory safety and ownership.
+- **Language Learning:** Actively implementing DSA patterns in **Java**.
 - **Active Project:** Applying data transmission and monitoring logic to my **Precision Agriculture** project.
 
 ---
