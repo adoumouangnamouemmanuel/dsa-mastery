@@ -4,12 +4,6 @@ Welcome to my central repository for Data Structures and Algorithms. This space 
 
 ---
 
-## 📊 My LeetCode Progress
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=adoumouangnamouemmanuel&theme=dark&hide_title=true)
-
----
-
 ## 📂 Repository Roadmap
 
 | Category                        | Description                                     | Primary Languages  |
