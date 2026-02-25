@@ -4,13 +4,13 @@ This directory contains my weekly lab implementations for the Data Structures an
 
 ## 📑 Lab Index
 
-| Week | Lab Title                        | Topic                        | Status      |
-| :--- | :------------------------------- | :--------------------------- | :---------- |
-| 01   | [Complexity Analysis](./lab-01/) | Big O, Time/Space Complexity | Completed   |
-| 02   | [Linked Lists](./lab-02/)        | Singly & Doubly Linked Lists | In Progress |
-| 03   | [Stacks & Queues](./lab-03/)     | Linear Data Structures       | Planned     |
-| 04   | [Binary Trees](./lab-04/)        | Hierarchical Structures      | Planned     |
-| 05   | [Sorting Algorithms](./lab-05/)  | O(n log n) Comparison Sorts  | Planned     |
+| Week | Lab Title                            | Topic                        | Status       |
+| :--- | :----------------------------------- | :--------------------------- | :----------- |
+| 01   | [Dynamic Array-Based List](./Lab01/) | Arrays, Dynamic Resizing     | ✅ Completed |
+| 02   | Linked Lists                         | Singly & Doubly Linked Lists | 🔜 Planned   |
+| 03   | Stacks & Queues                      | Linear Data Structures       | 🔜 Planned   |
+| 04   | Binary Trees                         | Hierarchical Structures      | 🔜 Planned   |
+| 05   | Sorting Algorithms                   | O(n log n) Comparison Sorts  | 🔜 Planned   |
 
 ---
 
@@ -28,7 +28,7 @@ Each lab folder is structured as follows to ensure clarity and professional docu
 ## 🚀 Learning Objectives
 
 - Implementation of custom data structures without relying solely on the `java.util` package.
-- mastering pointer/reference manipulation for complex structures like Trees and Graphs.
+- Mastering pointer/reference manipulation for complex structures like Trees and Graphs.
 - Applying unit testing to verify algorithm correctness against edge cases.
 
 ---
