@@ -1,4 +1,4 @@
-package leetcode.arrays.easy;
+package leetcode.arrays.easy ;
 /*
  * @lc app=leetcode id=1 lang=java
  *
@@ -9,8 +9,15 @@ import java.util.HashMap;
 import java.util.Map;
 
 // Strategy: use a HashMap to store seen values and find complements in O(n)
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
+class TwoSum {
+    public static void main(String[] args) {
+        int[] nums = { 2, 7, 11, 15 };
+        int target = 9;
+        int[] result = twoSum(nums, target);
+        System.out.println(result[0] + " " + result[1]);
+    }
+
+    public static int[] twoSum(int[] nums, int target) {
 
         Map<Integer, Integer> map = new HashMap<>(); // value → index
 
