@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+
+# Compiled Java bytecode - ignore in all folders and subfolders
+**/*.class
+
+# Compiled output directories
+**/out/
